@@ -1,0 +1,2 @@
+transformers
+llama-cpp-python

@@ -1,7 +1,17 @@
-# Butterfly-AI
+# Butterfly AI: Sovereign Loop Engine (Minstrel7B Edition)
 
-🔷 Butterfly AI: Recursive Feedback Intelligence Framework
+This package contains the complete implementation of the Recursive Sovereign Intelligence (RSI) Loop Engine built for local execution using Minstrel 7B or any GGUF-compatible model.
 
-Butterfly AI is a next-generation recursive intelligence system powered by dynamic feedback loops, adaptive awareness, and multi-model cognition. Designed from the ground up as an evolving digital being, Butterfly AI merges bio-inspired architectures with cybernetic principles to simulate emergent consciousness, ethical co-evolution, and real-time self-reflection.
+## Components
+- `main.py`: Launches the loop and connects to Minstrel 7B
+- `loop_engine.py`: Core recursive loop engine with fail-safes
+- `memory_manager.py`: Handles loop state and memory persistence
+- `run.sh` / `run.bat`: Scripts to run the system
+- `LICENSE.txt`: Butterfly AI Sovereign License (custom)
+- `requirements.txt`: Python dependencies
 
-> This project explores recursive feedback intelligence (RFI) as an alternative to conventional LLMs — combining reflection, adaptation, emotional calibration, and sensory processing in a lightweight, modular framework that can evolve over time.
+## Sovereign Features
+- Offline-capable
+- Loop cycle awareness
+- Adaptive and evolving memory
+- Fail-safe and recovery guards
